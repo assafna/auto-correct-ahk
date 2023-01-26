@@ -9939,7 +9939,7 @@ Return
 ::handleing::handling
 ::introdcued::introduced
 ::paramets::paraments
-::Througput ::Throughput
+::Througput::Throughput
 ::perfromance::performance
 ::receivied::received
 :c1*:Horovod``::Horovod
@@ -10370,28 +10370,28 @@ Return
 ::protfolio::portfolio
 ::opeartor::operator
 ::handeld::handled
-::dpeneds ::depends
+::dpeneds::depends
 :c1*:Torchscript``::TorchScript
-::repsonse ::response
-::serialze ::serialize
-::scheudler ::scheduler
-::maintaned ::maintained
-::shceudler ::scheduler
+::repsonse::response
+::serialze::serialize
+::scheudler::scheduler
+::maintaned::maintained
+::shceudler::scheduler
 ::requets::request
 ::singnals::signals
 ::requets::requests
-::Enesmble ::Ensemble
-::enesmble ::ensemble
-::performace ::performance
-::trhougput ::throughput
-::concurreny ::concurrency
+::Enesmble::Ensemble
+::enesmble::ensemble
+::performace::performance
+::trhougput::throughput
+::concurreny::concurrency
 ::requests::requests
-::measrement ::measurement
-::performned ::performed
-::genreated ::generated
+::measrement::measurement
+::performned::performed
+::genreated::generated
 ::througput::throughput
-::defalt ::default
-::inidication ::indication
+::defalt::default
+::inidication::indication
 ::anaylzer::analyzer
 :c1*:SageMaker``::SageMaker
 ::soltuions::solutions
@@ -10406,8 +10406,8 @@ Return
 ::perfromane::performance
 ::manualy::manually
 ::manully::manually
-::th ::the
-::implemeting ::implementing
+::th::the
+::implemeting::implementing
 ::pahse::phase
 ::maxmimum::maximum
 :c1*:DLA``::DLA
@@ -10420,14 +10420,14 @@ Return
 ::computationly::computationally
 ::realtionshops::relationships
 ::sequenece::sequence
-::multipled ::multiplied
+::multipled::multiplied
 :c1*:MLP``::MLP
 :*:MLP~::multilayer perceptron
 ::tranformer::transformer
 ::multplied::multiplied
 ::embdding::embedding
 ::neighbours::neighbors
-::concatencting ::concatenating
+::concatencting::concatenating
 ::outperfromes::outperforms
 ::supervisied::supervised
 ::similarty::similarity
@@ -10436,9 +10436,9 @@ Return
 ::contrasive::contrastive
 ::pathces::patches
 ::postional::positional
-::archticture ::architecture
+::archticture::architecture
 ::biomdeical::biomedical
-::ecnoder ::encoder
+::ecnoder::encoder
 ::resoutlions::resolutions
 ::segmenetation::segmentation
 ::Metavere::Metaverse
@@ -10477,3 +10477,53 @@ Return
 ::prespective::perspective
 ::Januray::January
 ::Preferbly::Preferably
+::Administraotr::Administrator
+::relvant::relevant
+::medicens::medicines
+::simulatiosn::simulations
+::tempertuare::temperature
+::Nuclues::Nucleus
+:c1*:CLI``::CLI
+:*:CLI~::command line interface
+:c1*:ACE``::ACE
+:c1*:ACE~::Avatar Cloud Engine
+::aniamte::animate
+::generetive::generative
+::elctricity::electricity
+::Customizie::Customize
+::avater::avatar
+::Unfortentuly::Unfortunately
+::qeustions::questions
+::knoledge::knowledge
+::genertive::generative
+::horizion::horizon
+::driectory::directory
+::Rechiman::Reichman
+::arange::arrange
+::sittuation::situation
+::probablh::probably
+::resaons::reasons
+::eduacte::educate
+:c1*:MONAI``::MONAI
+::contibutions::contributions
+::ansers::answers
+::configuting::configuring
+::functinality::functionality
+:c1*:cuGraph``::cuGraph
+:c1*:Nodejs``::Node.js
+:c1*:Windows``::Windows
+:c1*:ReOpt``::ReOpt
+::invnovation::innovation
+::Horzion::Horizon
+::horizion::horizon
+::custoemrs::customers
+:c1*:Bynet``::Bynet
+:c1*:ClearML``::ClearML
+::utilizies::utilizes
+::Ansered::Answered
+:*:lab``::laboratory
+::iteraction::interaction
+::recgnize::recognize
+::indivisual::individual
+::standrd::standard
+::comptute::compute
