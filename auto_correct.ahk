@@ -10527,3 +10527,111 @@ Return
 ::indivisual::individual
 ::standrd::standard
 ::comptute::compute
+::flexibile::flexible
+::physicall::physical
+:c1*:CSP``::CSP
+:*:CSP~::Cloud Service Provider
+:c1*:SuperCloud``::SuperCloud
+:c1*:Salesforce``::Salesforce
+:c1*:SAE``::SAE
+:*:SAE~::Solutions Architect Enterprise
+:c1*:LLM``::LLM
+:*:LLM~::Large Language Model
+:c1*:BioNeMo``::BioNeMo
+:c1*:TPL``::TPL
+:*:TPL~::Torch Performance Linter
+::arguemtns::arguments
+::Shold::Should
+::exectuing::executing
+::wraping::wrapping
+::Finisehd::Finished
+:c1*:dayotech``::Dayo-Tech
+::converetor::convertor
+:c1*:BMW``::BMW
+:c1*:MVP``::MVP
+::virutla::virtual
+::facrtory::factory
+::visualizaing::visualizing
+:c1*:BYOD``::BYOD
+:*:BYOD~::bring-your-own-data
+::improting::importing
+::walkthorugh::walkthrough
+::Rewtached::Rewatched
+::conigurations::configurations
+::Licsence::License
+::bootstraping::bootstrapping
+::exaplmes::examples
+::extnesion::extension
+::extnesions::extensions
+::allwos::allows
+:c1*:OVX``::OVX
+::specifcly::specifically
+::Netwokring::Networking
+::coonect::connect
+:*:lang``::language
+:c1*:OV``::OV
+:c1*:OV~::Omniverse
+::camers::cameras
+::sensros::sensors
+:c1*:LiDAR``::LiDAR
+::multiuple::multiple
+::soruces::sources
+:c1*:ROS``::ROS
+::applccations::applications
+::Recorer::Recorder
+::behavirol::behavioral
+::decipheing::deciphering
+::preformance::performance
+::expcting::expecting
+::Warhouses::Warehouses
+:c1*:USD``::USD
+:c1*:USD~::Universal Scene Description
+::ingestable::ingestible
+:c1*:OmniGraph``::OmniGraph
+::reandomly::randomly
+::realstic::realistic
+:c1*:XR~::eXtended Reality
+:c1*:XR``::XR
+:c1*:VR``::VR
+:c1*:VR~::Virtual Reality
+:c1*:AR``::AR
+:c1*:AR~::Augmented Reality
+:c1*:MR``::MR
+:c1*:MR~::Mixed Reality
+:c1*:HMD``::HMD
+:c1*:HMD~::Head-mounted Display
+::sterescopic::stereoscopic
+:c1*:DoF``::DoF
+:c1*:DoF~::Degrees of Freedom
+::accuray::accuracy
+::traingles::triangles
+::feauters::features
+::Adnroid::Android
+:c1*:CloudXR``::CloudXR
+:c1*:OpenXR``::OpenXR
+:c1*:FAQ``::FAQ
+:*:FAQ~::frequently asked questions
+::rednerer::renderer
+:c1*:RTX``::RTX
+:c1*:RTX~::Ray-Tracing
+::traching::tracing
+:c1*:Adobe``::Adobe
+:c1*:Autodesk``::Autodesk
+::Distripution::Distribution
+::matehmatical::mathematical
+::funcations::functions
+::Distrbution::Distribution
+:c1*:BSDF``::BSDF
+:c1*:BSDF~::Bidirectional Scattering Distribution Functions
+::distibution::distribution
+::inheirt::inherit
+::perforamce::performance
+::infrastrucure::infrastructure
+::infrastructore::infrastructure
+:c1*:Google``::Google
+::luanchpad::launchpad
+::handeling::handling
+::Joiend::Joined
+::concerend::concerned
+::downnloaded::downloaded
+::nevermind::mind
