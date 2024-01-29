@@ -2695,9 +2695,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::cutsomer::customer
 ::cusotmers::customers
 ::cutsomers::customers
-::customization::customisation
-::customizations::customisations
-::customize::customise
+;::customization::customisation
+;::customizations::customisations
+;::customize::customise
 ::cutted::cut
 ::cutre::cuter
 ::cultery::cutlery
@@ -9804,7 +9804,7 @@ Return
 :*:un``::username
 :c1*:accessibile::accessible
 ::realtionship::relationship
-:c1*:runai``::Run:AI
+:c1*:runai``::Run:ai
 ::scheudling::scheduling
 :c1*:RFI``::RFI
 :*:RFI~::Request for Information
@@ -10879,3 +10879,252 @@ Return
 ::presentaiton::presentation
 ::mangement::management
 ::optimizaions::optimizations
+::noteboks::notebooks
+::appreaciate::appreciate
+::paramter::parameter
+::privaetly::privately
+::supporitng::supporting
+::effeicnet::efficient
+::cofee::coffee
+::fastforward::fast forward
+::beautiflu::beautiful
+:c1*:RHCOS``::RHCOS
+:c1*:RHCOS~::Red Hat Enterprise Linux CoreOS
+::availibility::availability
+::netowkring::networking
+::departemnet::department
+:c1*:CFD``::CFD
+:c1*:CFD~::Computational Fluid Dynamics
+::openinig::opening
+::wroked::worked
+::installaing::installing
+::directiores::directories
+::wihtout::without
+::befroehand::beforehand
+::peroformance::performance
+::lectrued::lectured
+:c1*:IPMO``::IPMO
+::lecutred::lectured
+:c1*:PhysX``::PhysX
+:c1*:Nir``::Nir
+:c1*:Gal``::Gal
+:c1*:Mobileye``::Mobileye
+:c1*:Lior``::Lior
+::worload::workload
+::htier::their
+:c1*:OCP``::OCP
+:c1*:OCP~::OpenShift Container Platform
+::infrencing::inferencing
+::joied::joined
+::requiremenets::requirements
+::trail and error::trial and error
+::utilizied::utilized
+::hackaton::hackathon
+:c1*:IPMO``::IPMO
+:c1*:IPMO~::Israel Prime Minister's Office
+::Ernsesto::Ernesto
+::photorealisim::photorealism
+::appliation::application
+::replacenemt::replacement
+::expalined::explained
+:c1*:PyTriton``::PyTriton
+::recomendded::recommended
+::regaridng::regarding
+::upgrtading::upgrading
+::retieval::retrieval
+::prerequesties::prerequisites
+:c1*:PAK``::PAK
+:c1*:PAK~::Product Activation Key
+:c1*:PCIe``::PCIe
+::environement::environment
+:c1*:TEE``::TEE
+:*:TEE~::Trusted Execution Environment
+:c1*:OpenAI``::OpenAI
+:c1*:LangChain``::LangChain
+:c1*:RAG``::RAG
+:c1*:RAG~::Retrieval Augmented Generation
+:c1*:NFD``::NFD
+:c1*:NFD~::Node Feature Discovery
+::departement::department
+::bechmarking::benchmarking
+::lrager::larger
+::scheduelr::scheduler
+:c1*:OOM``::OOM
+:*:OOM~::Out-of-Memory
+:c1*:GFD``::GFD
+:*:GFD~::gpu-feature-discovery
+::synamic::dynamic
+::switchs::switches
+::limted::limited
+::cusomters::customers
+::conecered::concerned
+::separatly::separately
+::extensding::extending
+::quartely::quarterly
+::trhough::through
+::upddated::updated
+:c1*:SaltStack``::SaltStack
+:c1*:JFrog``::JFrog
+:c1*:JobSet``::JobSet
+:c1*:JobSets``::JobSets
+::compield::compiled
+:c1*:VSCode``::VSCode
+:c1*:VSCode~::Visual Studio Code
+:c1*:PyCharm``::PyCharm
+::localy::locally
+:c1*:GitOps``::GitOps
+::simplier::simpler
+::faser::faster
+::expreienced::experienced
+::diffifcult::difficult
+::infrastructres::infrastructures
+::randomaly::randomly
+::Cesiom::Cesium
+::suffiecent::sufficient
+::upgtade::upgrade
+::dependecnies::dependencies
+:c1*:Zvi``::Zvi
+:c1*:Esti``::Esti
+:c1*:OpenShift``::OpenShift
+:c1*:Yaki``::Yaki
+:c1*:Raanan``::Raanan
+:c1*:CTO``::CTO
+:c1*:CTO~::Chief Technology Officer
+:*:uptodate``::up-to-date
+::infrastructes::infrastructures
+:c1*:Unreal``::Unreal
+:c1*:Unity``::Unity
+::orthopohto::orthophoto
+:c1*:NeRF``::NeRF
+:c1*:MOFED``::MOFED
+:c1*:MOFED~::MLNX_OFED
+::regardgin::regarding
+:c1*:Adrian``::Adrian
+:c1*:Israelis``::Israelis
+:c1*:Inna``::Inna
+:c1*:VLAN``::VLAN
+:c1*:VLAN~::Virtual LAN
+:c1*:IDF``::IDF
+:c1*:IDF~::Israel Defense Forces
+::netowrking::networking
+:c1*:Ilan``::Ilan
+:c1*:Vitaly``::Vitaly
+:c1*:SRIOV``::SR-IOV
+:c1*:OS``::OS
+:*:OS~::Operating System
+::grpahics::graphics
+:c1*:HDR``::HDR
+::preparrtion::prepartion
+:c1*:NIC``::NIC
+:c1*:Dockerfile``::Dockerfile
+::worksapces::workspaces
+:c1*:NVLink``::NVLink
+::effiecncy::efficency
+::separatly::separately
+::acclerate::accelerate
+:c1*:ASR``::ASR
+:c1*:ASR~::Automatic Speech Recognition
+:c1*:TTS``::TTS
+:*:TTS~::Text-to-Speech
+:c1*:DLSS``::DLSS
+:*:DLSS~::Deep Learning Super Sampling
+::deliveried::delivered
+:c1*:RT``::RT
+:*:RT~::Ray-traycing
+:c1*:CMD``::CMD
+:*:CMD~::Cluster Management Daemon
+:c1*:SSL``::SSL
+:*:SSL~::Secure Sockets Layer
+:c1*:COD``::COD
+:*:COD~::Cluster on Demand
+:c1*:CX``::CX
+:*:CX~::Cluster Extension
+::enginees::engines
+:c1*:YAML``::YAML
+:c1*:YAML~::YAML Ain't Markup Language
+:c1*:ROI``::ROI
+:*:ROI~::Return on Investment
+:c1*:NVSwitch``::NVSwitch
+::bidrectional::bidirectional
+:c1*:QvDWS``::QvDWS
+:c1*:DGXC``::DGXC
+:c1*:DGXC~::DGX Cloud
+::situtation::situation
+::capacitiy::capacity
+::thye're::they're
+::luaghed::laughed
+:c1*:DRA``::DRA
+:*:DRA~::Dynamic Resource Allocation
+::porifle::profile
+::telcommunications::telecommunications
+::expreince::experience
+::pieace::piece
+::privetly::privately
+::expreiecned::experienced
+::concerens::concerns
+::celluar::cellular
+:c1*:Amdocs``::Amdocs
+:c1*:XML``::XML
+::punctutaion::punctuation
+:c1*:amAIz``::amAIz
+::scenearios::scenarios
+:c1*:SSO``::SSO
+::assignied::assigned
+::improvoemet::improvement
+::exectuers::executers
+::preffered::preferred
+::eqution::equation
+::maximzie::maximize
+:c1*:ASAP``::ASAP
+:*:ASAP~::As Soon As Possible
+::relevan::relevant
+::Infrasturctrue::Infrastructure
+::generaic::generic
+::orgnization::organization
+::qouta::quota
+::detialed::detailed
+::eaisly::easily
+::serivce::service
+:c1*:TAM``::TAM
+:*:TAM~::Technical Account Manager
+::timezone::time zone
+::restrections::restrictions
+::qustions::questions
+::memorry::memory
+::connecetd::connected
+::experied::expired
+::notcied::noticed
+::smiple::simple
+::payed::paid
+:c1*:PII``::PII
+:*:PII~::Personal Identifiable Information
+::itnernal::internal
+::relesaed::released
+::unavilalbe::unavailable
+::appointemnt::appointment
+::reagarding::regarding
+::defininig::defining
+::preperation::preparation
+::customizaion::customization
+::retrievel::retrieval
+::guradails::guardrails
+::techinque::technique
+:c1*:huggingface``::Hugging Face
+::abstracs::abstracts
+::delpoying::deploying
+::prfoiling::profiling
+::antena::antenna
+::inverstigating::investigating
+::fraemwork::framework
+:c1*:LoRA``::LoRA
+::termianl::terminal
+::acccessing::accessing
+::hackthon::hackathon
+::undrstand::understand
+:c1*:gRPC``::gRPC
+:c1*:HTTPS``::HTTPS
+::innternal::internal
+::componenet::component
+::importatn::important
+::lancher::launcher
+::recommeds::recommends
